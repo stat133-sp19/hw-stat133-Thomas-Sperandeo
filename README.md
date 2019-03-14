@@ -3,7 +3,7 @@
 Private Repository for HW assignments of Stat 133 (Spring 2019)
 
 - Name: Thomas Sperandeo
-- Github username: Thomas Sperandeo
+- Github username: Thomas-Sperandeo
 - Email: tsperandeo@berkeley.edu
 - Lab section: 105
 - GSI: Miyabi Ishihara
